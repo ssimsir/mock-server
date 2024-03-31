@@ -27,7 +27,7 @@
 		,
 		{
 			"id": 4,
-			"patient": "Aaron Black",
+			"patient": "deneme1 deneme1",
 			"date": "2024-03-31",
 			"time": 1,
 			"consulted": true,
@@ -36,7 +36,7 @@
 		,
 		{
 			"id": 5,
-			"patient": "Aaron Black",
+			"patient": "deneme2 deneme2",
 			"date": "2024-03-31",
 			"time": 2,
 			"consulted": true,
@@ -45,7 +45,7 @@
 		,
 		{
 			"id": 6,
-			"patient": "Aaron Black",
+			"patient": "deneme3 deneme3",
 			"date": "2024-03-31",
 			"time": 3,
 			"consulted": true,
