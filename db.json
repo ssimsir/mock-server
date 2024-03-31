@@ -24,11 +24,38 @@
 			"consulted": true,
 			"doctor": "Dr. Jasmine Carpanter"
 		}
+		,
+		{
+			"id": 4,
+			"patient": "Aaron Black",
+			"date": "2024-03-31",
+			"time": 1,
+			"consulted": true,
+			"doctor": "Dr. Jasmine Carpanter"
+		}
+		,
+		{
+			"id": 5,
+			"patient": "Aaron Black",
+			"date": "2024-03-31",
+			"time": 2,
+			"consulted": true,
+			"doctor": "Dr. Jasmine Carpanter"
+		}
+		,
+		{
+			"id": 6,
+			"patient": "Aaron Black",
+			"date": "2024-03-31",
+			"time": 3,
+			"consulted": true,
+			"doctor": "Dr. Jasmine Carpanter"
+		}
 	],
 	"appointmentApp.doctorData": [
 		{
 			"id": 1,
-			"name": "Dr.Hazel Valery",
+			"name": "Dr. Hazel Valery",
 			"dep": "Cardiology",
 			"img": "./img/dr1.jpg"
 		},
